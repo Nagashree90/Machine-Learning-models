@@ -16,5 +16,4 @@ Created few models by implementing ML classifiers, regressors for input datasets
 Project - Heart disease prediction using logistic regression
 Find the project in the link below.
 
-
-
+https://github.com/Nagashree90/Machine-Learning-models/blob/main/logistic_regressionproject.ipynb
